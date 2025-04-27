@@ -1,0 +1,14 @@
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\Kalyuzhnaya_Project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\Kalyuzhnaya_Project_1.AssemblyInfoInputs.cache
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\Kalyuzhnaya_Project_1.AssemblyInfo.cs
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\Kalyuzhnaya_Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\bin\Debug\net8.0\Kalyuzhnaya_Project_1.exe
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\bin\Debug\net8.0\Kalyuzhnaya_Project_1.deps.json
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\bin\Debug\net8.0\Kalyuzhnaya_Project_1.runtimeconfig.json
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\bin\Debug\net8.0\Kalyuzhnaya_Project_1.dll
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\bin\Debug\net8.0\Kalyuzhnaya_Project_1.pdb
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\Kalyuzhnaya_Project_1.dll
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\refint\Kalyuzhnaya_Project_1.dll
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\Kalyuzhnaya_Project_1.pdb
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\Kalyuzhnaya_Project_1.genruntimeconfig.cache
+C:\Users\Anna\Documents\ПИ\C#\Kalyuzhnaya_Project_1\Kalyuzhnaya_Project_1\obj\Debug\net8.0\ref\Kalyuzhnaya_Project_1.dll
